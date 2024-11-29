@@ -145,7 +145,7 @@ Importation des bibliothèques nécessaires pour la manipulation des données, l
 
 📈 Résultats
 
-![Résultats du modèle](images/results.png)
+![Résultats du modèle](images/resultat.png)
 
 Précision du modèle : Environ 96% (selon les résultats du modèle de Random Forest).
 Le modèle peut être amélioré en testant d'autres algorithmes, ajustant les hyperparamètres ou en utilisant davantage de caractéristiques.
