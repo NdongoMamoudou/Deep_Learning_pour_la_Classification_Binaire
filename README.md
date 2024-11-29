@@ -90,6 +90,9 @@ Créer un modèle capable de classifier les emails en deux catégories :
 
 
 
+___________________________________________________________________________________________________________________
+
+
 🦠 Prédiction du Cancer
 Ce projet utilise le Machine Learning pour prédire si un patient est atteint de cancer ou non, à partir de données médicales.
 
